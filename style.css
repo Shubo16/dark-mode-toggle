@@ -51,7 +51,7 @@
     left: 4px;
     bottom: 4px;
     background-color: white;
-    -webkit-transition: ease-in 0.4s;
+    transition: ease-in 0.2s;
   }
 
 
